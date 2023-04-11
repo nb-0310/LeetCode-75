@@ -11,6 +11,3 @@ class Solution:
             arr[i] = arr[i - 1] + arr[i - 2]
 
         return arr[n]
-    
-s = Solution()
-print(s.climbStairs(45))
