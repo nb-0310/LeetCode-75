@@ -17,3 +17,4 @@ This repository contains my solutions for the LeetCode 75 Study Plan. The study 
 - [LeetCode 75 Study Plan](https://leetcode.com/discuss/general-discussion/460599/LeetCode-75-Part-1.-Arrays)
 - [Python](https://www.python.org/)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Java](https://www.java.com/)
